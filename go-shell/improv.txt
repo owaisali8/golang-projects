@@ -1,0 +1,2 @@
+Modify the input indicator:
+Browse your input history with the up/down keys
