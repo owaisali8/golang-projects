@@ -8,3 +8,10 @@ The projects are implemented to learn concepts of Go from these repositories:
 
  - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
  - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+
+| Project | Description |
+|--|--|
+|[Shell](https://github.com/owaisali8/golang-projects/tree/main/go-shell)| A minimalistic shell for UNIX(-like) operating systems. |
+|Bit-torrent Client|A BitTorrent client from the ground up in Go.|
+|HackerRank |Solutions for HackerRank problems in Go.|
