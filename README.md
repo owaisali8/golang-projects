@@ -14,4 +14,4 @@ The projects are implemented to learn concepts of Go from these repositories:
 |--|--|
 |[Shell](https://github.com/owaisali8/golang-projects/tree/main/go-shell)| A minimalistic shell for UNIX(-like) operating systems. |
 |Bit-torrent Client|A BitTorrent client from the ground up in Go.|
-|HackerRank |Solutions for HackerRank problems in Go.|
+|[HackerRank](https://github.com/owaisali8/golang-projects/tree/main/hackerrank-solutions) |Solutions for HackerRank problems in Go.|
